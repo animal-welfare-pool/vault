@@ -1,0 +1,8 @@
+{
+	"name": "Quotex#2775",
+	"ticker": "AW1",
+	"discordId": "881386737019002913",
+	"pool-list": "true",
+	"poolMetaData": "https://raw.githubusercontent.com/animal-welfare-pool/vault/main/meta_data/aw1_meta.json",
+	"validation": "https://raw.githubusercontent.com/animal-welfare-pool/vault/main/meta_data/sjg-validation.json"
+}
